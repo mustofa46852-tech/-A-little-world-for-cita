@@ -34,7 +34,7 @@
   "Semoga hari ini kamu bahagia yaaa! 🗿",
   "Hari ini, kamulah pemeran utamanya! ✨",
   "Pengingat kecil: kamu sudah hebat dengan caramu sendiri. ♡",
-  "Jangan kesringan overthinking, nikmati aja yaa! 🗿"
+  "Jangan keseringan overthinking, nikmati aja yaa! 🗿"
 ],
 
     // Enam foto galeri. Ganti file di assets/images/ (nama file sama),
@@ -54,7 +54,7 @@
       paragraphs: [
         'Akhirnya hari spesialmu datang juga!',
         'Semoga di usia 15 ini, kamu selalu diberikan kesehatan, kebahagiaan, dan banyak hal baik yang mungkin belum pernah kamu bayangkan sebelumnya.',
-        'Gak kearasa kita udah 2 tahun kenal. Terima kasih ya sudah menjadi bagian dari cerita kecil dalam keseharianku. Meskipun kita belum punya kesempatan untuk bertemu secara langsung, tapi aku senang bisa mengenalmu dan berbagi banyak cerita melalui obrolan sederhana kita.',
+        'Gak kerasa kita udah 2 tahun kenal. Terima kasih ya sudah menjadi bagian dari cerita kecil dalam keseharianku. Meskipun kita belum punya kesempatan untuk bertemu secara langsung, tapi aku senang bisa mengenalmu dan berbagi banyak cerita melalui obrolan sederhana kita.',
         'Semoga hari-harimu selalu dipenuhi hal-hal menyenangkan. Jangan terlalu sering overthinking, jangan lupa bahagia, dan tetap jadi Cita yang ceria! oh iya lupa, jangan keseringan begadang, dan jangan sampai telat makan lagi loh, nanti kamu malah sakit🗿',
         'Aku juga berharap kita masih bisa terus ngobrol kayak biasa. Bisa berbagi cerita, bercanda, saling menghibur, dan tetap akrab untuk waktu yang lama.',
         'Sekali lagi, selamat ulang tahun, Cita!',
@@ -64,7 +64,7 @@
     },
 
     // Pesan setelah lilin padam (Section 06)
-    wishDone: 'Semoga semua harapan kecilmu  menjadi kenyataan! ♡',
+    wishDone: 'Semoga semua harapan kecilmu menjadi kenyataan! ♡',
 
 // Pesan penutup di kotak hadiah (Section 07)
 finale: {
